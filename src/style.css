@@ -1,1 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 @import "tailwindcss";
+
+@font-face {
+    font-family: 'Hore';
+    src: url('/fonts/Hore.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@theme {
+    --color-alova: #F0E1CC;
+    --color-drakar: #401C10;
+    --color-murko: #3D190B;
+    --color-verza: #E64F22;
+
+    --font-hore: Hore, sans-serif;
+    --font-mulish: Mulish, sans-serif;
+}
