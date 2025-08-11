@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+import HeaderSection from "../components/HeaderSection.vue";
+</script>
 
 <template>
-  <div id="home-page" class="w-full flex justify-center pt-[60px]">
-    <h1 class="text-4xl font-bold text center">Tears Dalu Home Page</h1>
+  <div id="home-page">
+    <HeaderSection />
   </div>
 </template>
