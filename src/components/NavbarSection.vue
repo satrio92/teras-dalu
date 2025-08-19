@@ -12,7 +12,7 @@ const scrollTo = (sectionId) => {
 <template>
   <nav id="navbar-section"
        class="w-full h-[64px] md:h-auto bg-murko rounded-2xl flex items-center justify-between px-[clamp(1.25rem,_2vw,_2rem)] col-span-2 lg:col-span-3">
-    <div id="logo">
+    <div id="logo" class="cursor-pointer" @click="scrollTo('header-section')">
       <img alt="Teras Dalu Logo" class="size-20" src="/images/logo.svg">
     </div>
     <ul id="menu"
@@ -23,7 +23,7 @@ const scrollTo = (sectionId) => {
       <li class="cursor-pointer hover:text-verza" @click="scrollTo('gallery-section')">Gallery</li>
       <li class="cursor-pointer hover:text-verza" @click="scrollTo('testimonial-section')">Testimoni</li>
       <li
-        class="w-auto h-auto  py-3 px-6 hover:bg-verza border-2 border-drakar lg:border-alova rounded-xl text-4xl lg:text-2xl text-murko hover:text-alova lg:text-alova font-hore lg:absolute lg:right-0">
+        class="w-auto h-auto  py-3 px-6 hover:bg-verza border-2 border-drakar lg:border-alova rounded-xl text-4xl lg:text-2xl text-murko hover:text-alova lg:text-alova font-hore lg:absolute lg:right-0 cursor-pointer">
         RESERVASI
       </li>
     </ul>
