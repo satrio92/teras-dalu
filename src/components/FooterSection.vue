@@ -16,7 +16,7 @@ const scrollTo = (sectionId) => {
       </div>
       <div class="lg:w-[450px] w-full h-[240px] lg:h-[320px] bg-base xl:rounded-[18px] rounded-[10px] overflow-hidden">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1716.4353955688127!2d106.81507200391667!3d-6.258075910489273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f17f86448b97%3A0xa50b66e958e93ed!2sJl.%20Kemang%20Raya%20No.15%2C%20RT.6%2FRW.1%2C%20Bangka%2C%20Kec.%20Mampang%20Prpt.%2C%20Kota%20Jakarta%20Selatan%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2012730!5e0!3m2!1sid!2sid!4v1741105224283!5m2!1sid!2sid"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1979.1285429659254!2d107.60227493179565!3d-6.8789836232657615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e6f22f4210e1%3A0x9263cef0a20ec02!2sJl.%20Ciumbuleuit%20No.105%2C%20Hegarmanah%2C%20Kec.%20Cidadap%2C%20Kota%20Bandung%2C%20Jawa%20Barat%2040141!5e0!3m2!1sid!2sid!4v1755616991942!5m2!1sid!2sid"
           width="700"
           height="440"
           loading="lazy"
