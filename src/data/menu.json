@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Kopi Susu Dalu",
+    "description": "Espresso dengan susu segar dan gula aren asli dari Jawa Barat.",
+    "price": 22000,
+    "featured": true,
+    "type": "minuman"
+  },
+  {
+    "name": "Espresso Manja",
+    "description": "Espresso shot yang kuat dengan sentuhan creamy foam.",
+    "price": 18000,
+    "featured": true,
+    "type": "minuman"
+  },
+  {
+    "name": "Matcha Latte",
+    "description": "Matcha premium Jepang dengan susu oat, creamy dan earthy.",
+    "price": 26000,
+    "featured": true,
+    "type": "minuman"
+  },
+  {
+    "name": "Tiramisu Dingin",
+    "description": "Minuman tiramisu dingin dengan topping bubuk kakao dan foam manis.",
+    "price": 24000,
+    "featured": true,
+    "type": "minuman"
+  },
+  {
+    "name": "Kopi Tubruk Tradisi",
+    "description": "Kopi hitam khas Indonesia tanpa gula, strong dan pekat.",
+    "price": 14000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Cold Brew Bandung",
+    "description": "Seduhan kopi dingin selama 12 jam, menghasilkan rasa yang lebih halus dan kuat.",
+    "price": 22000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Affogato Cream",
+    "description": "Espresso panas yang dituangkan ke atas es krim vanila.",
+    "price": 26000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Es Coklat Classic",
+    "description": "Coklat Belgia dingin yang manis dan menyegarkan.",
+    "price": 20000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Thai Tea Bandung",
+    "description": "Thai tea krim dengan es batu dan foam susu yang lembut.",
+    "price": 18000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Lemon Tea Sparkle",
+    "description": "Teh lemon segar dengan sentuhan soda yang menyegarkan.",
+    "price": 17000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Caramel Macchiato",
+    "description": "Espresso dengan campuran susu lembut dan sirup karamel khas.",
+    "price": 24000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Vanilla Latte",
+    "description": "Espresso lembut berpadu dengan susu dan aroma vanila yang memikat.",
+    "price": 23000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Red Velvet Latte",
+    "description": "Minuman merah muda lembut dengan rasa velvet manis.",
+    "price": 24000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Choco Mint Freeze",
+    "description": "Minuman coklat dingin yang diblender dengan sentuhan mint segar.",
+    "price": 22000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Teh Tarik Bandung",
+    "description": "Teh susu tarik klasik dengan rasa lembut dan tekstur creamy.",
+    "price": 16000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Kopi Aren Susu Spesial",
+    "description": "Kombinasi espresso dan gula aren khas yang pas di lidah.",
+    "price": 23000,
+    "featured": false,
+    "type": "minuman"
+  },
+  {
+    "name": "Croissant Keju",
+    "description": "Croissant hangat dengan lapisan keju cheddar meleleh di atasnya.",
+    "price": 16000,
+    "featured": true,
+    "type": "makanan"
+  },
+  {
+    "name": "Roti Bakar Coklat Pisang",
+    "description": "Roti bakar isi pisang dan coklat meleleh, cocok untuk camilan sore.",
+    "price": 18000,
+    "featured": true,
+    "type": "makanan"
+  },
+  {
+    "name": "French Toast Berry",
+    "description": "Roti panggang manis dengan topping buah beri dan sirup madu.",
+    "price": 22000,
+    "featured": false,
+    "type": "makanan"
+  },
+  {
+    "name": "Roti Bakar Telur & Keju",
+    "description": "Roti dengan isian telur orak-arik dan keju meleleh yang gurih.",
+    "price": 18000,
+    "featured": false,
+    "type": "makanan"
+  },
+  {
+    "name": "Chicken Croffle",
+    "description": "Croffle renyah dengan topping ayam crispy yang gurih.",
+    "price": 25000,
+    "featured": false,
+    "type": "makanan"
+  },
+  {
+    "name": "Brownies Lumer",
+    "description": "Brownies kukus yang lembut dengan lelehan coklat di tengahnya.",
+    "price": 18000,
+    "featured": false,
+    "type": "makanan"
+  },
+  {
+    "name": "Pisang Caramel",
+    "description": "Pisang goreng dengan lapisan karamel dan taburan wijen.",
+    "price": 15000,
+    "featured": false,
+    "type": "makanan"
+  },
+  {
+    "name": "Donat Bandung",
+    "description": "Donat tradisional Bandung dengan taburan gula halus yang lembut.",
+    "price": 10000,
+    "featured": false,
+    "type": "makanan"
+  },
+  {
+    "name": "Spaghetti Aglio e Olio",
+    "description": "Spaghetti dengan bawang putih, minyak zaitun, dan cabai ringan.",
+    "price": 28000,
+    "featured": false,
+    "type": "makanan"
+  },
+  {
+    "name": "Chicken Katsu Rice",
+    "description": "Nasi hangat dengan ayam katsu krispi dan saus spesial.",
+    "price": 30000,
+    "featured": false,
+    "type": "makanan"
+  }
+]
