@@ -3,6 +3,7 @@ import HeaderSection from "../components/HeaderSection.vue";
 import AboutSection from "../components/AboutSection.vue";
 import MenuSection from "../components/MenuSection.vue";
 import GallerySection from "../components/GallerySection.vue";
+import TestimonialSection from "../components/TestimonialSection.vue";
 </script>
 
 <template>
@@ -11,5 +12,6 @@ import GallerySection from "../components/GallerySection.vue";
     <AboutSection/>
     <MenuSection/>
     <GallerySection/>
+    <TestimonialSection/>
   </div>
 </template>
