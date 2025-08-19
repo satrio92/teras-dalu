@@ -37,17 +37,17 @@
           <li class="flex gap-3 items-start">
             <img src="/icons/whatsapp.svg" alt="" class="mt-1">
             <p class="shrink-0">WhatsApp :</p>
-            <p>0812-3456-7890</p>
+            <a href="#" class="hover:text-verza">0812-3456-7890</a>
           </li>
           <li class="flex gap-3 items-start">
             <img src="/icons/email.svg" alt="" class="mt-1">
             <p class="shrink-0">Email :</p>
-            <p>hello@terasdalu.id</p>
+            <a href="#" class="hover:text-verza">hello@terasdalu.id</a>
           </li>
           <li class="flex gap-3 items-start">
             <img src="/icons/instagram.svg" alt="" class="mt-1">
             <p class="shrink-0">Instagram :</p>
-            <p>@terasdalu.bdg</p>
+            <a href="#" class="hover:text-verza">@terasdalu.bdg</a>
           </li>
         </ul>
       </div>
