@@ -4,6 +4,7 @@ import AboutSection from "../components/AboutSection.vue";
 import MenuSection from "../components/MenuSection.vue";
 import GallerySection from "../components/GallerySection.vue";
 import TestimonialSection from "../components/TestimonialSection.vue";
+import FooterSection from "../components/FooterSection.vue";
 </script>
 
 <template>
@@ -13,5 +14,6 @@ import TestimonialSection from "../components/TestimonialSection.vue";
     <MenuSection/>
     <GallerySection/>
     <TestimonialSection/>
+    <FooterSection/>
   </div>
 </template>
