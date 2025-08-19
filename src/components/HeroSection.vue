@@ -14,7 +14,7 @@
   </a>
   <a
     class="w-full lg:w-auto lg:max-w-[310px] h-[62px] lg:h-auto flex items-center justify-center border-2 border-drakar bg-alova hover:bg-verza rounded-2xl text-3xl xl:text-4xl text-verza hover:text-alova font-hore cursor-pointer lg:order-3"
-    href="https://kukuhsatrio.site">
+    href="#">
     RESERVASI
   </a>
 </template>
