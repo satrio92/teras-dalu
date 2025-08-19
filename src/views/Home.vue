@@ -2,6 +2,7 @@
 import HeaderSection from "../components/HeaderSection.vue";
 import AboutSection from "../components/AboutSection.vue";
 import MenuSection from "../components/MenuSection.vue";
+import GallerySection from "../components/GallerySection.vue";
 </script>
 
 <template>
@@ -9,5 +10,6 @@ import MenuSection from "../components/MenuSection.vue";
     <HeaderSection/>
     <AboutSection/>
     <MenuSection/>
+    <GallerySection/>
   </div>
 </template>
