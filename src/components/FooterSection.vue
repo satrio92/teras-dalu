@@ -1,4 +1,8 @@
 <script setup>
+const scrollTo = (sectionId) => {
+  const target = document.getElementById(sectionId)
+  target?.scrollIntoView({behavior: 'smooth'})
+}
 </script>
 
 <template>
@@ -54,9 +58,16 @@
     </div>
     <footer
       class="w-full h-[100px] bg-murko rounded-[1.125rem] flex justify-between items-center px-[clamp(1.25rem,_2vw,_2rem)]">
-      <img alt="Teras Dalu Logo" class="size-20 cursor-pointer" src="/images/logo.svg">
+      <img alt="Teras Dalu Logo" class="size-20 cursor-pointer" src="/images/logo.svg"
+           @click="scrollTo('header-section')">
       <p class="text-alova text-xl font-hore">Copyright © 2025 Teras Dalu</p>
-      <div>
+      <div
+        class="w-12 h-12 rounded-full flex justify-center items-center border-3 border-alova hover:border-0 hover:bg-verza cursor-pointer relative group"
+        @click="scrollTo('header-section')">
+        <p
+          class="text-alova text-2xl font-semibold font-mulish absolute -ml-64 hidden group-hover:inline transition-all duration-500 ease-in">
+          Kembali ke
+          atas</p>
         <img src="/icons/arrow-up.svg" alt="" class="cursor-pointer"/>
       </div>
     </footer>
