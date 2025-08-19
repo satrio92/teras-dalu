@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Nadia",
+    "profession": "Mahasiswa",
+    "testimoni": "\"Tempatnya cozy banget buat nugas atau sekadar ngopi santai. Kopi Susu Dalunya juara!\""
+  },
+  {
+    "name": "Ibu Rina",
+    "profession": "Ibu Rumah Tangga",
+    "testimoni": "\"Aku suka banget tiramisunya! Lembut dan manisnya pas. Anak-anak juga betah di sini.\""
+  },
+  {
+    "name": "Reza",
+    "profession": "Karyawan Swasta",
+    "testimoni": "\"Udah sering banget ke sini bareng temen-temen. Semua menunya nggak pernah gagal!\""
+  },
+  {
+    "name": "Salsa",
+    "profession": "Mahasiswa",
+    "testimoni": "\"Suka banget duduk di area outdoor sore-sore. Matcha Lattenya wajib dicoba sih!\""
+  }
+]
