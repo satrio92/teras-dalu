@@ -11,7 +11,8 @@ const scrollTo = (sectionId) => {
 
 <template>
   <nav id="navbar-section"
-       class="w-full h-[64px] md:h-auto bg-murko rounded-2xl flex items-center justify-between px-[clamp(1.25rem,_2vw,_2rem)] col-span-2 lg:col-span-3">
+       class="w-full h-[64px] md:h-auto bg-murko rounded-2xl flex items-center justify-between px-[clamp(1.25rem,_2vw,_2rem)] col-span-2 lg:col-span-3"
+       data-aos="fade-down" data-aos-delay="0">
     <div id="logo" class="cursor-pointer" @click="scrollTo('header-section')">
       <img alt="Teras Dalu Logo" class="size-20" src="/images/logo.svg">
     </div>
