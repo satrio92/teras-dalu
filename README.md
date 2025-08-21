@@ -24,33 +24,32 @@ project showcases a clean layout, local vibe, and user-friendly experience for c
 
 ## 📁 Project Structure
 
-src/
-├── assets/
-├── components/
-│ ├── NavbarSection.vue
-│ ├── HeroSection.vue
-│ ├── HeaderSection.vue
-│ ├── AboutSection.vue
-│ ├── MenuCard.vue
-│ ├── MenuSection.vue
-│ ├── GallerySection.vue
-│ ├── TestimonialCard.vue
-│ ├── TestimonialSection.vue
-│ └── FooterSection.vue
-├── views/
-│ └── Home.vue
-├── data/
-│ └── menu.json
-│ └── testimonials.json
-├── App.vue
+src/\
+├── assets/\
+├── components/\
+│ ├── NavbarSection.vue\
+│ ├── HeroSection.vue\
+│ ├── HeaderSection.vue\
+│ ├── AboutSection.vue\
+│ ├── MenuCard.vue\
+│ ├── MenuSection.vue\
+│ ├── GallerySection.vue\
+│ ├── TestimonialCard.vue\
+│ ├── TestimonialSection.vue\
+│ └── FooterSection.vue\
+├── views/\
+│ └── Home.vue\
+├── data/\
+│ ├── menu.json\
+│ └── testimonials.json\
+├── App.vue\
 └── main.js
 
 ## 🌐 Live Preview
 
 ![Website Preview.png](/public/images/website-preview.png)
 
-<a href="https://teras-dalu.vercel.app"><p style="text-align:center; font-weight:bold; font-size:18px;">Teras Dalu
-Website</p></a>
+### [Teras Dalu Website](https://teras-dalu.vercel.app)
 
 ## 🙋‍♂️ Developed By
 
